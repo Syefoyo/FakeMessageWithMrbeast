@@ -1,0 +1,36 @@
+img {
+    width: 75px;
+    border-radius: 40px;
+}
+.jim {
+    margin: auto;
+    color: #61972b;
+    font-size: 30px;
+}
+h1 {
+    display: block;
+    text-align: center;
+    color: azure;
+}
+body {
+    background-color: #cac8c8;
+}
+.send {
+    width: 30px;
+}
+input {
+    height: 25px;
+}
+h3 {
+    display: block;
+    text-align: center;
+    color: azure;
+}
+button {
+    display: block;
+    margin: auto;
+}
+.yoy {
+    font-size: 30px;
+    color: #14ca14;
+}
